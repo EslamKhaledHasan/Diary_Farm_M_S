@@ -49,3 +49,4 @@ D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.ServiceProcess.Ser
 D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.Text.Encoding.CodePages.xml
 D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.Threading.AccessControl.xml
 D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary Farm.csproj.Fody.CopyLocal.cache
+D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary_Farm.MilkProduction.resources
