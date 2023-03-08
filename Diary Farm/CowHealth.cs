@@ -63,5 +63,12 @@ namespace Diary_Farm
             Ob.Show();
             this.Hide();
         }
+
+        private void pictureBox7_Click(object sender, EventArgs e)
+        {
+            DashBoard Ob = new DashBoard();
+            Ob.Show();
+            this.Hide();
+        }
     }
 }
