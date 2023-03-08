@@ -50,3 +50,7 @@ D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.Text.Encoding.Code
 D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.Threading.AccessControl.xml
 D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary Farm.csproj.Fody.CopyLocal.cache
 D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary_Farm.MilkProduction.resources
+D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary_Farm.Breedings.resources
+D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary_Farm.CowHealth.resources
+D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary_Farm.Finances.resources
+D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary_Farm.MilkSales.resources
