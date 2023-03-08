@@ -21,5 +21,10 @@ namespace Diary_Farm
         {
 
         }
+
+        private void Cows_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
