@@ -1,0 +1,16 @@
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\Diary Farm.exe.config
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\Diary Farm.exe
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\Diary Farm.pdb
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\Bunifu.Licensing.dll
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary Farm.csproj.AssemblyReference.cache
+D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary Farm.csproj.SuggestedBindingRedirects.cache
+D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary_Farm.Login.resources
+D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary_Farm.Spalash.resources
+D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary_Farm.Properties.Resources.resources
+D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary Farm.csproj.GenerateResource.cache
+D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary Farm.csproj.CoreCompileInputs.cache
+D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary Farm.csproj.CopyComplete
+D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary Farm.exe
+D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary Farm.pdb

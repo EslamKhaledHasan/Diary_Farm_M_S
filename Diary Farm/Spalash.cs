@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Diary_Farm
 {
-    public partial class Form1 : Form
+    public partial class Spalash : Form
     {
-        public Form1()
+        public Spalash()
         {
             InitializeComponent();
         }

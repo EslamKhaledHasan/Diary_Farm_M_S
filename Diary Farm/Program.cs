@@ -16,7 +16,7 @@ namespace Diary_Farm
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Spalash());
+            Application.Run(new Login());
         }
     }
 }
