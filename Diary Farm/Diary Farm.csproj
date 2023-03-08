@@ -301,6 +301,9 @@
     <EmbeddedResource Include="Cows.resx">
       <DependentUpon>Cows.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="DashBoard.resx">
+      <DependentUpon>DashBoard.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Finances.resx">
       <DependentUpon>Finances.cs</DependentUpon>
     </EmbeddedResource>
