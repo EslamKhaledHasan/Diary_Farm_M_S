@@ -16,5 +16,10 @@ namespace Diary_Farm
         {
             InitializeComponent();
         }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
