@@ -35,6 +35,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
+            this.textBox2 = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -83,9 +84,9 @@
             this.label3.Font = new System.Drawing.Font("Copperplate Gothic Light", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(442, 329);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(118, 21);
+            this.label3.Size = new System.Drawing.Size(120, 21);
             this.label3.TabIndex = 5;
-            this.label3.Text = "password";
+            this.label3.Text = "Password";
             // 
             // textBox1
             // 
@@ -94,11 +95,19 @@
             this.textBox1.Size = new System.Drawing.Size(192, 22);
             this.textBox1.TabIndex = 6;
             // 
+            // textBox2
+            // 
+            this.textBox2.Location = new System.Drawing.Point(446, 353);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(192, 22);
+            this.textBox2.TabIndex = 7;
+            // 
             // Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 14F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(900, 519);
+            this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -122,5 +131,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textBox2;
     }
 }
