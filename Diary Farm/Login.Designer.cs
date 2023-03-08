@@ -171,9 +171,9 @@
             this.label7.Font = new System.Drawing.Font("Copperplate Gothic Light", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.Location = new System.Drawing.Point(96, 275);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(124, 21);
+            this.label7.Size = new System.Drawing.Size(189, 21);
             this.label7.TabIndex = 7;
-            this.label7.Text = "User Name";
+            this.label7.Text = "Professionalism";
             // 
             // Login
             // 
