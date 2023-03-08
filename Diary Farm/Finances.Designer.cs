@@ -49,6 +49,7 @@
             this.label7 = new System.Windows.Forms.Label();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.label2 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -59,6 +60,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            this.panel2.SuspendLayout();
             this.SuspendLayout();
             // 
             // label1
@@ -267,10 +269,21 @@
             // 
             // panel2
             // 
+            this.panel2.Controls.Add(this.label2);
             this.panel2.Location = new System.Drawing.Point(331, 68);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(910, 328);
             this.panel2.TabIndex = 84;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Copperplate Gothic Light", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(15, 15);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(103, 30);
+            this.label2.TabIndex = 7;
+            this.label2.Text = "DFMS";
             // 
             // Finances
             // 
@@ -294,6 +307,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            this.panel2.ResumeLayout(false);
+            this.panel2.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -319,5 +334,6 @@
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.Label label2;
     }
 }
