@@ -14,3 +14,5 @@ D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary Farm.csproj.CoreCom
 D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary Farm.csproj.CopyComplete
 D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary Farm.exe
 D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary Farm.pdb
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\Guna.UI2.dll
+D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary_Farm.Cows.resources
