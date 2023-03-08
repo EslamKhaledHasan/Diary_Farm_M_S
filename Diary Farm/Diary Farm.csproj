@@ -236,6 +236,12 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Breedings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Breedings.Designer.cs">
+      <DependentUpon>Breedings.cs</DependentUpon>
+    </Compile>
     <Compile Include="CowHealth.cs">
       <SubType>Form</SubType>
     </Compile>
