@@ -118,9 +118,9 @@
             // 
             this.button1.BackColor = System.Drawing.Color.Azure;
             this.button1.Font = new System.Drawing.Font("Copperplate Gothic Light", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(572, 394);
+            this.button1.Location = new System.Drawing.Point(552, 395);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(89, 27);
+            this.button1.Size = new System.Drawing.Size(132, 32);
             this.button1.TabIndex = 8;
             this.button1.Text = "login";
             this.button1.UseVisualStyleBackColor = false;
