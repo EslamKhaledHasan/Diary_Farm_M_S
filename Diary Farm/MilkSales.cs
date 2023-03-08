@@ -23,5 +23,12 @@ namespace Diary_Farm
             Ob.Show();
             this.Hide();
         }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            MilkProduction Ob = new MilkProduction();
+            Ob.Show();
+            this.Hide();
+        }
     }
 }
