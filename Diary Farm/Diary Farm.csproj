@@ -280,6 +280,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Breedings.resx">
+      <DependentUpon>Breedings.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="CowHealth.resx">
       <DependentUpon>CowHealth.cs</DependentUpon>
     </EmbeddedResource>
