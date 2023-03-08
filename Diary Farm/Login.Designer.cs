@@ -100,16 +100,18 @@
             // 
             // textBox1
             // 
+            this.textBox1.Font = new System.Drawing.Font("Copperplate Gothic Light", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.Location = new System.Drawing.Point(512, 265);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(192, 22);
+            this.textBox1.Size = new System.Drawing.Size(192, 26);
             this.textBox1.TabIndex = 6;
             // 
             // textBox2
             // 
+            this.textBox2.Font = new System.Drawing.Font("Copperplate Gothic Light", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox2.Location = new System.Drawing.Point(512, 353);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(192, 22);
+            this.textBox2.Size = new System.Drawing.Size(192, 26);
             this.textBox2.TabIndex = 7;
             // 
             // button1
@@ -135,13 +137,14 @@
             // 
             // comboBox1
             // 
+            this.comboBox1.Font = new System.Drawing.Font("Copperplate Gothic Light", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
             "Employee",
             "Admin"});
             this.comboBox1.Location = new System.Drawing.Point(512, 204);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(192, 22);
+            this.comboBox1.Size = new System.Drawing.Size(192, 27);
             this.comboBox1.TabIndex = 10;
             this.comboBox1.Text = "Select Role";
             // 
