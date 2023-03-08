@@ -1,8 +1,6 @@
 D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\Diary Farm.exe.config
 D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\Diary Farm.exe
 D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\Diary Farm.pdb
-D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
-D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\Bunifu.Licensing.dll
 D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
 D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary Farm.csproj.AssemblyReference.cache
 D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary Farm.csproj.SuggestedBindingRedirects.cache
@@ -14,5 +12,40 @@ D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary Farm.csproj.CoreCom
 D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary Farm.csproj.CopyComplete
 D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary Farm.exe
 D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary Farm.pdb
-D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\Guna.UI2.dll
 D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary_Farm.Cows.resources
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\Bunifu.UI.WinForms.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\Microsoft.Win32.Registry.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\Newtonsoft.Json.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\RestSharp.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.Buffers.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.CodeDom.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.Data.Odbc.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.Data.OleDb.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.Data.SqlClient.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.Diagnostics.EventLog.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.Drawing.Common.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.IO.Packaging.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.IO.Ports.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.Memory.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.Numerics.Vectors.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.Security.AccessControl.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.Security.Permissions.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.Security.Principal.Windows.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.ServiceModel.Syndication.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\bin\Debug\System.Threading.AccessControl.xml
+D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary Farm.csproj.Fody.CopyLocal.cache
