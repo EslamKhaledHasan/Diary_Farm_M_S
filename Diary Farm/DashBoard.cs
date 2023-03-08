@@ -16,5 +16,18 @@ namespace Diary_Farm
         {
             InitializeComponent();
         }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            Cows Ob = new Cows();
+            Ob.Show();
+            this.Hide();
+                 
+        }
     }
 }
