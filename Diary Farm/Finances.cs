@@ -16,5 +16,13 @@ namespace Diary_Farm
         {
             InitializeComponent();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+            Cows Ob = new Cows();
+            Ob.Show();
+            this.Hide();
+        }
     }
 }
