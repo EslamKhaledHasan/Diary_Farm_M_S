@@ -161,9 +161,9 @@
             this.label6.Font = new System.Drawing.Font("Copperplate Gothic Light", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.Location = new System.Drawing.Point(96, 227);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(124, 21);
+            this.label6.Size = new System.Drawing.Size(166, 21);
             this.label6.TabIndex = 6;
-            this.label6.Text = "User Name";
+            this.label6.Text = "Echo Friendly";
             // 
             // label7
             // 
