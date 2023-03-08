@@ -82,7 +82,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Copperplate Gothic Light", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(514, 241);
+            this.label2.Location = new System.Drawing.Point(514, 250);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(124, 21);
             this.label2.TabIndex = 4;
@@ -101,7 +101,7 @@
             // textBox1
             // 
             this.textBox1.Font = new System.Drawing.Font("Copperplate Gothic Light", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(512, 265);
+            this.textBox1.Location = new System.Drawing.Point(512, 274);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(192, 26);
             this.textBox1.TabIndex = 6;
