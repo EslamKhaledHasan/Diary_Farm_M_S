@@ -462,9 +462,9 @@
             this.label17.Font = new System.Drawing.Font("Copperplate Gothic Light", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label17.Location = new System.Drawing.Point(146, 655);
             this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(72, 21);
+            this.label17.Size = new System.Drawing.Size(131, 21);
             this.label17.TabIndex = 17;
-            this.label17.Text = "Cows";
+            this.label17.Text = "Dashboard";
             // 
             // guna2DataGridView1
             // 
