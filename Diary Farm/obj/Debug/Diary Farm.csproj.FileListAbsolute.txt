@@ -54,3 +54,4 @@ D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary_Farm.Breedings.reso
 D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary_Farm.CowHealth.resources
 D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary_Farm.Finances.resources
 D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary_Farm.MilkSales.resources
+D:\tasks\windows tasks\Diary Farm\Diary Farm\obj\Debug\Diary_Farm.DashBoard.resources
